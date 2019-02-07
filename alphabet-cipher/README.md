@@ -72,10 +72,10 @@ To decode, the person would use the secret keyword and do the opposite.
 
 - Clone or fork this repo
 - `cd alphabet-cipher`
-- Run the tests with `lein test`
+- Run the tests with `sbt test`
 - Make the tests pass!
 
-## Solutions
+## Clojure Solutions
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
